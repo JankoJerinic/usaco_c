@@ -1,0 +1,4 @@
+!# /bin/bash
+prog="$1"
+gcc -o "$prog" "${prog}.c" -std=c99 -Wall -pedantic-errors && ./"$prog" && cat "${prog}.out"
+

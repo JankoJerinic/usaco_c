@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="usaco"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/jerinicj/code/usaco/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/jerinicj/code/usaco/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/jerinicj/code/usaco/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/jerinicj/code/usaco/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/jerinicj/code/usaco/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/jerinicj/code/usaco/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/jerinicj/code/usaco/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/jerinicj/code/usaco/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/jerinicj/code/usaco/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/jerinicj/code/usaco/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/jerinicj/code/usaco/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/jerinicj/code/usaco/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/jerinicj/code/usaco/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/jerinicj/code/usaco/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/jerinicj/code/usaco/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="usaco">
+				<Option output="/Users/jerinicj/code/usaco/cmake-build-debug/usaco" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/jerinicj/code/usaco/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/9.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/jerinicj/code/usaco/cmake-build-debug/Makefile&quot;  VERBOSE=1 usaco"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/jerinicj/code/usaco/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/jerinicj/code/usaco/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/jerinicj/code/usaco/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="usaco/fast">
+				<Option output="/Users/jerinicj/code/usaco/cmake-build-debug/usaco" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/jerinicj/code/usaco/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/9.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/jerinicj/code/usaco/cmake-build-debug/Makefile&quot;  VERBOSE=1 usaco/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/jerinicj/code/usaco/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/jerinicj/code/usaco/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/jerinicj/code/usaco/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/jerinicj/code/usaco/ariprog/ariprog.c">
+			<Option target="usaco"/>
+		</Unit>
+		<Unit filename="/Users/jerinicj/code/usaco/ariprog/ariprog.in">
+			<Option target="usaco"/>
+		</Unit>
+		<Unit filename="/Users/jerinicj/code/usaco/barn1/barn1.c">
+			<Option target="usaco"/>
+		</Unit>
+		<Unit filename="/Users/jerinicj/code/usaco/barn1/barn1.in">
+			<Option target="usaco"/>
+		</Unit>
+		<Unit filename="/Users/jerinicj/code/usaco/beads/beads.c">
+			<Option target="usaco"/>
+		</Unit>
+		<Unit filename="/Users/jerinicj/code/usaco/beads/beads.in">
+			<Option target="usaco"/>
+		</Unit>
+		<Unit filename="/Users/jerinicj/code/usaco/beads/beads2.c">
+			<Option target="usaco"/>
+		</Unit>
+		<Unit filename="/Users/jerinicj/code/usaco/beads/beads2.in">
+			<Option target="usaco"/>
+		</Unit>
+		<Unit filename="/Users/jerinicj/code/usaco/combo/combo.c">
+			<Option target="usaco"/>
+		</Unit>
+		<Unit filename="/Users/jerinicj/code/usaco/combo/combo.in">
+			<Option target="usaco"/>
+		</Unit>
+		<Unit filename="/Users/jerinicj/code/usaco/crypt1/crypt1.c">
+			<Option target="usaco"/>
+		</Unit>
+		<Unit filename="/Users/jerinicj/code/usaco/crypt1/crypt1.in">
+			<Option target="usaco"/>
+		</Unit>
+		<Unit filename="/Users/jerinicj/code/usaco/dualpal/dualpal.c">
+			<Option target="usaco"/>
+		</Unit>
+		<Unit filename="/Users/jerinicj/code/usaco/dualpal/dualpal.in">
+			<Option target="usaco"/>
+		</Unit>
+		<Unit filename="/Users/jerinicj/code/usaco/friday/friday.c">
+			<Option target="usaco"/>
+		</Unit>
+		<Unit filename="/Users/jerinicj/code/usaco/friday/friday.in">
+			<Option target="usaco"/>
+		</Unit>
+		<Unit filename="/Users/jerinicj/code/usaco/gift1/gift1.c">
+			<Option target="usaco"/>
+		</Unit>
+		<Unit filename="/Users/jerinicj/code/usaco/gift1/gift1.in">
+			<Option target="usaco"/>
+		</Unit>
+		<Unit filename="/Users/jerinicj/code/usaco/main.c">
+			<Option target="usaco"/>
+		</Unit>
+		<Unit filename="/Users/jerinicj/code/usaco/main.cpp">
+			<Option target="usaco"/>
+		</Unit>
+		<Unit filename="/Users/jerinicj/code/usaco/milk/milk.c">
+			<Option target="usaco"/>
+		</Unit>
+		<Unit filename="/Users/jerinicj/code/usaco/milk/milk.in">
+			<Option target="usaco"/>
+		</Unit>
+		<Unit filename="/Users/jerinicj/code/usaco/milk2/milk2.c">
+			<Option target="usaco"/>
+		</Unit>
+		<Unit filename="/Users/jerinicj/code/usaco/milk2/milk2.in">
+			<Option target="usaco"/>
+		</Unit>
+		<Unit filename="/Users/jerinicj/code/usaco/milk2/milk_bit.c">
+			<Option target="usaco"/>
+		</Unit>
+		<Unit filename="/Users/jerinicj/code/usaco/milk3/milk3.c">
+			<Option target="usaco"/>
+		</Unit>
+		<Unit filename="/Users/jerinicj/code/usaco/milk3/milk3.in">
+			<Option target="usaco"/>
+		</Unit>
+		<Unit filename="/Users/jerinicj/code/usaco/namenum/namenum.c">
+			<Option target="usaco"/>
+		</Unit>
+		<Unit filename="/Users/jerinicj/code/usaco/namenum/namenum.in">
+			<Option target="usaco"/>
+		</Unit>
+		<Unit filename="/Users/jerinicj/code/usaco/palsquare/palsquare.c">
+			<Option target="usaco"/>
+		</Unit>
+		<Unit filename="/Users/jerinicj/code/usaco/palsquare/palsquare.in">
+			<Option target="usaco"/>
+		</Unit>
+		<Unit filename="/Users/jerinicj/code/usaco/ride/ride.c">
+			<Option target="usaco"/>
+		</Unit>
+		<Unit filename="/Users/jerinicj/code/usaco/ride/ride.cpp">
+			<Option target="usaco"/>
+		</Unit>
+		<Unit filename="/Users/jerinicj/code/usaco/ride/ride.in">
+			<Option target="usaco"/>
+		</Unit>
+		<Unit filename="/Users/jerinicj/code/usaco/ride/ride_iterative.cpp">
+			<Option target="usaco"/>
+		</Unit>
+		<Unit filename="/Users/jerinicj/code/usaco/ride/ride_iterative_fn.cpp">
+			<Option target="usaco"/>
+		</Unit>
+		<Unit filename="/Users/jerinicj/code/usaco/ride/ride_iterators_fn.cpp">
+			<Option target="usaco"/>
+		</Unit>
+		<Unit filename="/Users/jerinicj/code/usaco/ride/ride_recursive_fn.cpp">
+			<Option target="usaco"/>
+		</Unit>
+		<Unit filename="/Users/jerinicj/code/usaco/skidesign/skidesign.c">
+			<Option target="usaco"/>
+		</Unit>
+		<Unit filename="/Users/jerinicj/code/usaco/skidesign/skidesign.in">
+			<Option target="usaco"/>
+		</Unit>
+		<Unit filename="/Users/jerinicj/code/usaco/test.cpp">
+			<Option target="usaco"/>
+		</Unit>
+		<Unit filename="/Users/jerinicj/code/usaco/test_2darr_ptrs.c">
+			<Option target="usaco"/>
+		</Unit>
+		<Unit filename="/Users/jerinicj/code/usaco/transform/transform.c">
+			<Option target="usaco"/>
+		</Unit>
+		<Unit filename="/Users/jerinicj/code/usaco/transform/transform.in">
+			<Option target="usaco"/>
+		</Unit>
+		<Unit filename="/Users/jerinicj/code/usaco/usaco">
+			<Option target="usaco"/>
+		</Unit>
+		<Unit filename="/Users/jerinicj/code/usaco/wormhole/wormhole.c">
+			<Option target="usaco"/>
+		</Unit>
+		<Unit filename="/Users/jerinicj/code/usaco/wormhole/wormhole.dbg.c">
+			<Option target="usaco"/>
+		</Unit>
+		<Unit filename="/Users/jerinicj/code/usaco/wormhole/wormhole.in">
+			<Option target="usaco"/>
+		</Unit>
+		<Unit filename="/Users/jerinicj/code/usaco/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
